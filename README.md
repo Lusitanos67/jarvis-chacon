@@ -5,7 +5,7 @@ It will allow you to simply turn on and off your devices.
 For now needs wiring and g++ pre-installed (this will be automated in the plugin installation).
 See https://arno0x0x.wordpress.com/2015/04/02/rf433-outlet/
 
-<img src="https://raw.githubusercontent.com/Lusitanos67/jarvis-chacon/master/presentation_chacon.jpg" width="500">
+<img src="https://raw.githubusercontent.com/Lusitanos67/jarvis-chacon/master/presentation_chacon.jpg" width="600">
 
 
 ## Usage
