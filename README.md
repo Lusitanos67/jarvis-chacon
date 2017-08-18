@@ -23,7 +23,7 @@ you can see this page to help you: https://arno0x0x.wordpress.com/2015/04/02/rf4
 
 1) Connect a 433MHz RF sender module to the Raspberry Pi by following this schema:
 
-<img src="https://raw.githubusercontent.com/QuentinCG/jarvis-chacon/master/rpi_433MHzSender.jpg" width="300">
+<img src="https://raw.githubusercontent.com/Lusitanos67/jarvis-chacon/master/rpi_433MHzSender.jpg" width="300">
 
 2) Add this plugin to your <a target="_blank" href="http://domotiquefacile.fr/jarvis/">Jarvis assistant</a> (<a target="_blank" href="http://domotiquefacile.fr/jarvis/content/plugins">more info here</a>): ```./jarvis.sh -p https://github.com/Lusitanos67/jarvis-chacon```
 
